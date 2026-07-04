@@ -2,7 +2,7 @@
 
 **Track:** System Design · **Level:** 1/12 · **Difficulty:** `beginner`
 
-📚 **Today's lesson** — published 2026-07-03
+📚 **Today's lesson** — published 2026-07-04
 
 ## TL;DR
 
